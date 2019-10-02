@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryOldDevices</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkOldDevices</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NavigationButton">
+        <item name="android:background">@null</item>
+        <item name="android:textColor">@color/stepsTextColor</item>
+    </style>
+
+    <style name="ToolbarColoredBackArrow" parent="AppTheme">
+        <item name="android:textColorSecondary">@color/toolbarTextColor</item>
+    </style>
+
+</resources>

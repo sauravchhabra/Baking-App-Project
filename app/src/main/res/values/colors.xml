@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#eceff1</color>
+    <color name="colorPrimaryDark">#cfd8dc</color>
+    <color name="colorAccent">#03a9f4</color>
+    <color name="colorPrimaryOldDevices">#607d8b</color>
+    <color name="colorPrimaryDarkOldDevices">#546e7a</color>
+    <color name="toolbarTextColor">#455a64</color>
+    <color name="stepsTextColor">#455a64</color>
+</resources>

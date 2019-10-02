@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <string name="show">Show</string>
+    <string name="back">Back</string>
+
+    <string name="step">Step %1$d</string>
+    <string name="instructions">Instructions</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="recipe_added">Recipe added to widget</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="dish_image_description">Dish Image</string>
+    <string name="add_recipe_widget">Add some recipe to widget first</string>
+    <string name="video_thumbnail_description">Video Thumbnail</string>
+    <string name="show_button">Show</string>
+    <string name="back_button">Back</string>
+</resources>
