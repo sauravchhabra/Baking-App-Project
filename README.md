@@ -1,2 +1,2 @@
 # Baking-App-Project
-4th project for Android Developer Nanodegreee at Udacity. This project has been redeveloped from my previous repo.
+4th project for Android Developer Nanodegreee at Udacity. This project connects to the Udacity database and fetches a list of recipes from which it shows all the data to the user. After fetching the data, it stores the data of the recipe in local database once they've been set to use the widget. This project has been redeveloped from my previous repo. Check it out here: https://github.com/sauravchhabra/BakingApp
